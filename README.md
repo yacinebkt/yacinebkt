@@ -10,8 +10,6 @@ Skills: Javascript / React JS / Next Js / Three Js / Express Js / HTML5 / CSS3 /
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yacinebkt)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yacinebkt&show_icons=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yacinebkt)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yacinebkt)  
