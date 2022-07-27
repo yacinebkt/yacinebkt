@@ -2,7 +2,7 @@
 #### I am a Full Stack Web Developer
 Experience in Analyzing, Designing, Developing and Integrating Front-End & Back-End Web applications
 
-Skills: Javascript / React JS / Next Js / Three Js / Express Js / HTML5 / CSS3 / JQuery / Solidity / Mongo DB / Firebase / SQL / Material-UI / Tailwind CSS
+Skills: Javascript / React JS / Next Js / Three Js / Express Js / HTML5 / CSS3 / JQuery / Solidity / Mongo DB / Firebase / Material-UI / Tailwind CSS
 
 
 
